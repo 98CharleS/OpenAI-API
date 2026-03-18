@@ -7,8 +7,6 @@
 
 A Python tool that reads a plain-text article, sends it to the OpenAI API, and generates a structured HTML file with suggested image placeholders. Each placeholder includes a ready-to-use image generation prompt in the `alt` attribute and a `<figcaption>` description below it.
 
-Built for a recruitment task at [Oxido](https://oxido.pl).
-
 ---
 
 ## 📋 Table of Contents
